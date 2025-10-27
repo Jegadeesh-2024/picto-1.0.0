@@ -9,6 +9,7 @@ import "swiper/css";
 import "swiper/css/pagination";
 import "./blog.css";
 
+
 // Breakpoints for swiperJS
 const custom_breakpoints = {
   640: {
